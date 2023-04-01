@@ -1,5 +1,5 @@
 # maze-solver
-The function reads and processes a maze text file, finds a path using depth-first search, and plots the solution.
+The script reads and processes a maze text file, finds a path using depth-first search, and plots the solution.
 
 ## Dependencies
 This program requires the R programming language to be installed on your computer. No additional packages or libraries are required.
