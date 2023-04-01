@@ -24,7 +24,7 @@ This function takes a maze matrix and optional parameters as input, and plots th
 `plotPath()`
 It takes a file path as input and optional parameters for customization of wall scale, wall color, symbol size, start color, and end color. The function returns a plot of the maze solution with the path highlighted.
 
-It also includes a Maze_template folder that contains maze_0.map (small maze) and maze_1.map (big maze) as examples for the readMap() function.
+It also includes a Maze_template folder that contains maze_0.map (small maze) and maze_1.map (big maze) as examples for the maze_solver.
 
 Additionally, there is a maze_code_examples folder that contains examples of code execution for the Maze_template files.
 
