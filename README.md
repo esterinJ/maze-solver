@@ -30,4 +30,18 @@ Additionally, there is a maze_code_examples folder that contains examples of cod
 
 Feel free to use and modify the code to fit your specific use case.
 
+## Examples
+How the maze would be plotted: 
+
+![maze_plot](https://user-images.githubusercontent.com/99491936/229309011-5c7e8479-bba4-417e-9910-77c98eb0cf8b.png)
+
+How the solution will look like: 
+
+![maze_solution](https://user-images.githubusercontent.com/99491936/229309101-e2081df4-b0fc-4f1b-a3b9-fac1ee09aea2.png)
+
+
+
+
+
+
 
